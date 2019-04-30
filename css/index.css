@@ -1,0 +1,25 @@
+body {
+  font-family: Helvetica, Arial;
+  background-color: #fbeeee;
+}
+
+header {
+  height: 120px;
+  width: 960px;
+  margin: 0 auto;
+}
+
+header img {
+  width: 30%;
+  margin: 30px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+nav a {
+  text-decoration: none;
+}
