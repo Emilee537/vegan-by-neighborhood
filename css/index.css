@@ -4,13 +4,13 @@ body {
 }
 
 header {
-  height: 120px;
-  margin: 10px;
+  height: 180px;
+  padding: 20px;
 }
 
 header img {
-  width: 30%;
-  margin: 30px;
+  width: 100%;
+  height: 120px;
 }
 
 nav {
@@ -31,7 +31,7 @@ nav a {
 .main {
   display: flex;
   justify-content: space-between;
-  margin: 100px 0px 60px 0px;
+  margin: 20px 0px;
 }
 
 .map img {
@@ -39,7 +39,7 @@ nav a {
 }
 
 .map-content {
-  width: 60%;
+  width: 66%;
 }
 
 .sidebar {
@@ -56,7 +56,7 @@ nav a {
 }
 
 .blog-preview img {
-  width: 33%;
+  width: 90%;
 }
 
 .instagram-posts {
@@ -65,5 +65,5 @@ nav a {
 }
 
 .insta-preview img {
-  width: 33%;
+  width: 90%;
 }
