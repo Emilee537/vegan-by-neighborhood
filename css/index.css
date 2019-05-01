@@ -5,8 +5,7 @@ body {
 
 header {
   height: 120px;
-  width: 960px;
-  margin: 0 auto;
+  margin: 10px;
 }
 
 header img {
@@ -22,4 +21,49 @@ nav {
 
 nav a {
   text-decoration: none;
+}
+
+.container {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px 0px 60px 0px;
+}
+
+.map img {
+  width: 100%;
+}
+
+.map-content {
+  width: 60%;
+}
+
+.sidebar {
+  width: 30%;
+}
+
+.sidebar img {
+  width: 100%;
+}
+
+.blog-posts {
+  display: flex;
+  justify-content: space-around;
+}
+
+.blog-preview img {
+  width: 33%;
+}
+
+.instagram-posts {
+  display: flex;
+  justify-content: space-around;
+}
+
+.insta-preview img {
+  width: 33%;
 }
