@@ -64,6 +64,15 @@ nav a {
   width: 66%;
 }
 
+article {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+article img {
+  width: 100%;
+}
+
 .sidebar {
   width: 30%;
 }
