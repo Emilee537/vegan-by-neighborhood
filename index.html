@@ -5,6 +5,9 @@
     <title>Vegan Eats</title>
     <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
     <link href='css/index.css' rel='stylesheet'>
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.css' rel='stylesheet' />
   </head>
   <body>
     <div class="container">
@@ -28,9 +31,9 @@
           <div class="map-explanation">
             <p>Zoom in on your whereabouts to discover your next food obsession.</p>
           </div>
-          <div class="map">
-            <span>map</span>
-          </div>
+
+          <div id='map'></div>
+
 
         </div>
         <div class="sidebar">
@@ -70,7 +73,7 @@
       </div>
       <div class="instagram-posts">
         <div class="insta-preview">
-          <img src="wireframes/lindner wireframe.jpg" alt="">
+          <img src="https://scontent-lga3-1.cdninstagram.com/vp/7b04acd3dd794fb7f374863b0fb15a42/5D981529/t51.2885-15/e35/51665977_1059087520945588_2596166198066376719_n.jpg">
           <h4>Yummy post</h4>
         </div>
         <div class="insta-preview">
@@ -85,5 +88,7 @@
       <footer></footer>
     </div>
 
+    <script src="js/jquery-2.1.4.js"></script>
+    <script src="js/index.js"></script>
   </body>
 </html>

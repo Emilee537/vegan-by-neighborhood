@@ -1,0 +1,313 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oath Pizza - Broadway",
+        "description": "Really good pizza"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.981260,
+          40.782050
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oath Pizza - 3rd Ave",
+        "description": "Yummy pizza"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.962000,
+          40.767810
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MTHR Vegan",
+        "description": "Grain bowls, burgers and more!"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.991990,
+          40.763960
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Afandi Grill",
+        "description": "Delicious wraps from Uzbeki restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.984990,
+          40.728470
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cocoron",
+        "description": "all the soba you could ever want"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.993042,
+          40.720310
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spreads",
+        "description": "Coconut bacon sandwich"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.983070,
+          40.744400
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Balducci’s Market",
+        "description": "Features Erin McKenna's Bakery"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.978150,
+          40.763840
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Surya",
+        "description": "indi masla (okra),  Chana masala (chickpea), aloo gobi mutter (cauliflower and potato)"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.999650,
+          40.728100
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "An Choi",
+        "description": "vegan pho & sweet chili tofu banh mi"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.990490,
+          40.717950
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Urban Vegan Kitchen",
+        "description": "best seitan and waffles, mac n cheese"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.003662,
+          40.730190
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ThY's Noodles",
+        "description": "chengdu style noodles with secret sesame sauce"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.982740,
+          40.741820
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spicy Moon Vegetarian Szechuan",
+        "description": "Vegan cheese yam, peppercorn Brussels Sprouts, walnut edamame nugget, spicy wontons, boiled watercress, and sesame noodles"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.987310,
+          40.726650
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Divya's Kitchen",
+        "description": "pesto lasagna"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.988490,
+          40.723820
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Catch",
+        "description": "pistachio cheesecake"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.006310,
+          40.740130
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cock & Bull",
+        "description": "vegan wings and more on plant-based menu"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.980440,
+          40.756030
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cassava House",
+        "description": "sandwiches"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.934830,
+          40.796340
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Orchard Grocer",
+        "description": "sandwiches"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.990150,
+          40.717720
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alimama Tea",
+        "description": "MOCHI munchkin doughnuts"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.999130,
+          40.715730
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baccarat Hotel",
+        "description": "$90 high tea"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.984871,
+          40.754280
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mission Chinese Food",
+        "description": "Dan dan noodles"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.989670,
+          40.713829
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Frankie Goes To Bollywood",
+        "description": "cauliflower potato hash wrap, okra wrap, and red lentil curry wrap"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.003660,
+          40.725150
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yara NYC",
+        "description": "homemade hummus, grape leaves, beet falafel, cauliflower, spinach pie, and tabouli"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.966100,
+          40.756520
+        ],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
