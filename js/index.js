@@ -1,3 +1,6 @@
+
+////// MAPBOX ////////////////////////////////////////
+
 mapboxgl.accessToken = 'pk.eyJ1IjoiZW1pbGVlNTM3IiwiYSI6ImNqdnB5ODU4djJlaWY0M3FvMmN6cWFkNXMifQ.2CMwBgHk7i0Od2GcX6nAdw';
 var map = new mapboxgl.Map({
 container: 'map',
@@ -20,3 +23,5 @@ map.on('click', function(e) {
     .setLngLat(feature.geometry.coordinates)
     .addTo(map);
 });
+
+/////// RESPONSIVE //////////////////////////////////////

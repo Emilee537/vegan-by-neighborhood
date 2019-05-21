@@ -45,7 +45,7 @@ nav a {
 .main {
   display: flex;
   justify-content: space-between;
-  margin: 20px 0px;
+  margin-top: 30px;
 }
 
 .main h1 {
@@ -78,13 +78,35 @@ article img {
   width: 100%;
 }
 
+.title {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  font-size: 17px;
+  font-family: trebuchet ms,Arial,sans-serif;
+  letter-spacing: 1px;
+  line-height: 1;
+  text-transform: uppercase;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  margin-bottom: 20px;
+  margin-top: 15px;
+}
+
 .blog-posts {
   display: flex;
   justify-content: space-around;
 }
 
+.blog-preview {
+  width: 300px;
+}
+
 .blog-preview img {
-  width: 90%;
+  width: 100%;
+}
+.blog-preview a {
+  text-decoration: none;
 }
 
 .instagram-posts {
@@ -92,6 +114,44 @@ article img {
   justify-content: space-around;
 }
 
+.insta-preview {
+  width: 300px;
+}
+
 .insta-preview img {
-  width: 90%;
+  width: 100%;
+}
+
+.insta-preview a {
+  text-decoration: none;
+}
+
+.email {
+  width: 100%;
+  height: 100px;
+  background-color: #f9dede;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 14px;
+  font-family: trebuchet ms,Arial,sans-serif;
+  letter-spacing: 1px;
+  line-height: 1;
+  text-transform: uppercase;
+  padding: 17px;
+  margin-top: 25px;
+}
+
+button {
+  background-color: white;
+  width: 75px;
+  height: 25px;
+}
+
+footer {
+  text-align: center;
+  color: gray;
+  font-size: 12px;
+  margin: 25px;
 }
