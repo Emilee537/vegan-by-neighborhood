@@ -23,5 +23,3 @@ map.on('click', function(e) {
     .setLngLat(feature.geometry.coordinates)
     .addTo(map);
 });
-
-/////// RESPONSIVE //////////////////////////////////////
