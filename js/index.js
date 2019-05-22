@@ -23,3 +23,16 @@ map.on('click', function(e) {
     .setLngLat(feature.geometry.coordinates)
     .addTo(map);
 });
+
+
+////////// RESPONSIVE ///////////
+
+$(function () {
+  $('#mobile-menu-button').click(function () {
+    if ($('nav').hasClass('showing')) {
+      $('nav').removeClass('showing').addClass('hiding')
+    } else {
+      $('nav').removeClass('hiding').addClass('showing')
+    }
+  })
+})
